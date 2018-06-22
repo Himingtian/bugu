@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="bugu-services" />
+        <module name="comment-service" />
+        <module name="content-service" />
+        <module name="eureka-service" />
+        <module name="pay-service" />
+        <module name="search-service" />
+        <module name="user-service" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="bugu-services" target="1.5" />
+      <module name="comment-service" target="1.8" />
+      <module name="content-service" target="1.8" />
+      <module name="eureka-service" target="1.8" />
+      <module name="pay-service" target="1.8" />
+      <module name="search-service" target="1.8" />
+      <module name="user-service" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
