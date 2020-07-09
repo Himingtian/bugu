@@ -29,8 +29,8 @@ public class RegisterServiceImpl implements RegisterService{
         final String product = "Dysmsapi";
         final String domain = "dysmsapi.aliyuncs.com";
 
-        final String accessKeyId = "LTAIOYkEQK8flDBA";
-        final String accessKeySecret = "Sv4T7CfoqsrV9UoNQDFMXQOaETDHEo";
+        final String accessKeyId = "***";
+        final String accessKeySecret = "***";
 
         try{
 
